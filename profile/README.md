@@ -7,7 +7,7 @@ Falls dein Benutzername nicht auf deine Person schliessen lässt: Stelle bitte m
 (Tipp/Optional: Als Student der hftm kannst du gratis eine GitHub-Pro-Subscription freischalten: https://education.github.com/pack)  
   
 ### Aufnahme in Organisation beantragen
-Anschliessend darfst du Kurt oder Simeon dein GitHub-Benutzernamen zustellen und uns um die Aufnahme in diese Organisation anfragen.
+Anschliessend darfst du Kurt oder Nico dein GitHub-Benutzernamen zustellen und uns um die Aufnahme in diese Organisation anfragen.
 Wir werden dann deinen Benutzer im hftm-Enterprise aufnehmen und dich als Member in deine Klasse eintragen.  
   
 ### Als Übersicht zur GitHub-Nutzung im hftm Umfeld:
